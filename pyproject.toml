@@ -3,9 +3,8 @@ name = "sudoku-solver"
 version = "0.1.0"
 description = "A sudoku solver"
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Bård Bysveen",email = "baardbysveen@proton.me"}
 ]
-readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "numpy (>=2.3.2,<3.0.0)",
